@@ -1,0 +1,6 @@
+{
+  "name": "OBBI - Serviços Que Conectam Pessoas",
+  "description": "Plataforma completa para contratação e oferta de serviços profissionais rápidos, seguros e qualificados.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
